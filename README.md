@@ -1,6 +1,6 @@
 # Bicycle Sales Dashboard
 
-<img src="Images/Bicycle Logo.jpeg" width="2000" height="500"/>&nbsp;
+<img src="images/Dashboard.PNG" width="2000" height="500"/>&nbsp;
 
 ## Overview
 
