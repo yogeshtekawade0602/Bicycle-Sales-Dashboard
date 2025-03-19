@@ -1,6 +1,6 @@
 # Bicycle Sales Dashboard
 
-<img src="images/logo.jpg" width="2000" height="500"/>&nbsp;
+<img src="images/mountain-bike.jpg" width="2000" height="500"/>&nbsp;
 
 ## Overview
 
