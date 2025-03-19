@@ -82,4 +82,4 @@ Introduce additional KPIs such as Customer Lifetime Value (CLV).
 Improve visual design with enhanced themes.
 
 ## Dashboard :
-<img src="Images/Bicycle Sales Dashboard.png" width="2500" height="600"/>&nbsp;
+<img src="images/Dashboard.PNG" width="2500" height="600"/>&nbsp;
