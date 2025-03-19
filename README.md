@@ -7,7 +7,7 @@
 This Power BI dashboard provides comprehensive insights into the sales performance of a bicycle business. It visualizes data related to revenue, profit, orders, and return rates, enabling data-driven decisions. The dashboard includes interactive visuals and filters for enhanced user experience.
 
 ## Tool used :
-<img src="Images/Power Bi Logo.png" width="300" height="150"/>&nbsp;
+<img src="images/PowerBI Logo.jpg" width="300" height="150"/>&nbsp;
 
 ## Key Metrics
 
